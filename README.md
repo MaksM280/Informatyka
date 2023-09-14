@@ -1,1 +1,2 @@
 # Informatyka
+Maks Maciejewski
